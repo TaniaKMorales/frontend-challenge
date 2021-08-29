@@ -1,6 +1,3 @@
-![step1](https://user-images.githubusercontent.com/37593222/131235991-46be654a-58ed-4be4-b88e-143b253ecb28.jpg)
-![step2](https://user-images.githubusercontent.com/37593222/131235992-03d7dbe1-ab9f-4d6f-b48f-d837383df551.jpg)
-![step3](https://user-images.githubusercontent.com/37593222/131235993-751adda6-f88d-44d6-aecf-3c18e579fdc2.png)
 Technical Challenge
 
 ●¿Por qué deberíamos utilizar ReactJS?
@@ -32,3 +29,8 @@ Technical Challenge
 ● ¿Qué son los "props"?
 
     Los props son datos inmutables, es decir, que no puedes ser modificados y que pasan de padres a hijos hasta el final de una cadena. Un componente no puede cambiar sus props, pero es responsable de pasarlos de forma correcta a sus hijos.
+
+Ejemplo:
+![step1](https://user-images.githubusercontent.com/37593222/131236052-29efc9ac-3d86-4142-8105-3cd8396e91a4.jpg)
+![step2](https://user-images.githubusercontent.com/37593222/131236053-ddec1268-13d1-4e97-b557-707385a113ff.jpg)
+![step3](https://user-images.githubusercontent.com/37593222/131236054-aa04b438-3f50-4005-abe5-184f9b0c9abe.png)
