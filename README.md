@@ -1,3 +1,6 @@
+![step1](https://user-images.githubusercontent.com/37593222/131235991-46be654a-58ed-4be4-b88e-143b253ecb28.jpg)
+![step2](https://user-images.githubusercontent.com/37593222/131235992-03d7dbe1-ab9f-4d6f-b48f-d837383df551.jpg)
+![step3](https://user-images.githubusercontent.com/37593222/131235993-751adda6-f88d-44d6-aecf-3c18e579fdc2.png)
 Technical Challenge
 
 ●¿Por qué deberíamos utilizar ReactJS?
